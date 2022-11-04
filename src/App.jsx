@@ -5,12 +5,12 @@ import './index.css';
 
 const navbarStyle = {
     brand: 'Playground',
-    imgPath: '/favicon.ico',
+    imgPath: '/dice.png',
     nav: []
 }
 function App() {
     return (
-        <div className='bg-theme-black'>
+        <div className='bg-theme-black-2'>
             <NavBar
             brand = {navbarStyle.brand}
             imgPath = {navbarStyle.imgPath}

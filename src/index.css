@@ -7,3 +7,16 @@ body {
   margin: 0px;
   padding: 0px;
 }
+
+.bg-theme-black-2 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(27 27 27 / var(--tw-bg-opacity));
+}
+
+a:hover,
+a:visited,
+a:link,
+a:active {
+  color: #ffffff;
+  text-decoration: none;
+}
