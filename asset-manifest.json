@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/playground_bot_website/static/css/main.8e221439.css",
+    "main.js": "/playground_bot_website/static/js/main.f11a0ef0.js",
+    "index.html": "/playground_bot_website/index.html",
+    "main.8e221439.css.map": "/playground_bot_website/static/css/main.8e221439.css.map",
+    "main.f11a0ef0.js.map": "/playground_bot_website/static/js/main.f11a0ef0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e221439.css",
+    "static/js/main.f11a0ef0.js"
+  ]
+}
