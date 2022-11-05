@@ -15,6 +15,10 @@ The Bot is not tailored to comply with industry-specific regulations (Health Ins
 
 The Bot is intended for users who are at least 13 years of age. All users who are minors in the jurisdiction in which they reside (generally under the age of 18) must have the permission of, and be directly supervised by, their parent or guardian to use the Bot. If you are a minor, you must have your parent or guardian read and agree to these Terms of Use prior to you using the Bot.
 
+# Data Usage
+
+Since this bot is for simple minigames, this bot does not store any data. 
+
 # Contact
 
 **Email: leafguykk@gmail.com**
